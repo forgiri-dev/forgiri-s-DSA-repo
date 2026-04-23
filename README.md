@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
