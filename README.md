@@ -31,6 +31,7 @@
 | [0008-string-to-integer-atoi](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
