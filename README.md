@@ -31,6 +31,7 @@
 | [0008-string-to-integer-atoi](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
