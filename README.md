@@ -33,6 +33,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
