@@ -1,4 +1,3 @@
-#include <unordered_map>
 #include <string>
 
 using namespace std;
@@ -6,19 +5,28 @@ using namespace std;
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char, int> roman = {
-            {'I', 1}, {'V', 5}, {'X', 10}, 
-            {'L', 50}, {'C', 100}, {'D', 500}, {'M', 1000}
-        };
-        
         int sum = 0;
+        int prevValue = 0;
         
-        for(int i = 0; i < s.size(); i++){
-            if(i + 1 < s.size() && roman[s[i]] < roman[s[i+1]]) {
-                sum -= roman[s[i]];
+        for(int i = s.length() - 1; i >= 0; i--) {
+            int currentValue = 0;
+            
+            switch(s[i]) {
+                case 'I': currentValue = 1; break;
+                case 'V': currentValue = 5; break;
+                case 'X': currentValue = 10; break;
+                case 'L': currentValue = 50; break;
+                case 'C': currentValue = 100; break;
+                case 'D': currentValue = 500; break;
+                case 'M': currentValue = 1000; break;
+            }
+            
+            if (currentValue < prevValue) {
+                sum -= currentValue;
             } 
             else {
-                sum += roman[s[i]];
+                sum += currentValue;
+                prevValue = currentValue;
             }
         }
         
