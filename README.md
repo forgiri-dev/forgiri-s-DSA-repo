@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1922-count-good-numbers) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0151-reverse-words-in-a-string) |
@@ -58,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
