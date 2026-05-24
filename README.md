@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0040-combination-sum-ii) |
+| [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0216-combination-sum-iii) |
@@ -90,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
