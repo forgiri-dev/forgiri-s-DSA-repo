@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0216-combination-sum-iii) |
@@ -23,6 +24,7 @@
 | [0002-add-two-numbers](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1922-count-good-numbers) |
 ## Recursion
