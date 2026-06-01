@@ -43,6 +43,7 @@
 | [0020-valid-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
@@ -90,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0148-sort-list) |
