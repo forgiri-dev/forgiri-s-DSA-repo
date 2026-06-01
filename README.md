@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
@@ -97,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0142-linked-list-cycle-ii) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
