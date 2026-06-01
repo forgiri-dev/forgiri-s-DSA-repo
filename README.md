@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0216-combination-sum-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0216-combination-sum-iii) |
 | [0875-koko-eating-bananas](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
