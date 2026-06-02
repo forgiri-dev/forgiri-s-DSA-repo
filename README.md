@@ -30,6 +30,7 @@
 | [0050-powx-n](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -151,4 +152,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
