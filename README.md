@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
@@ -52,6 +53,7 @@
 | [0020-valid-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0205-isomorphic-strings) |
@@ -80,6 +82,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0231-power-of-two) |
@@ -159,6 +162,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
