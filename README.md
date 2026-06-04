@@ -34,6 +34,7 @@
 | [0069-sqrtx](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0326-power-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -43,6 +44,7 @@
 | [0050-powx-n](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1922-count-good-numbers) |
 ## String
 |  |
