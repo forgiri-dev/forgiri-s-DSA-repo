@@ -33,6 +33,7 @@
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0292-nim-game) |
@@ -100,6 +101,7 @@
 | [0141-linked-list-cycle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
@@ -122,6 +124,7 @@
 | [0148-sort-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
