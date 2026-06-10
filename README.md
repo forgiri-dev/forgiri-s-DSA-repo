@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0141-linked-list-cycle) |
@@ -220,6 +224,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
