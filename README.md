@@ -19,6 +19,7 @@
 | [0228-summary-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -127,6 +128,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0735-asteroid-collision) |
 ## Number Theory
 |  |
 | ------- |
