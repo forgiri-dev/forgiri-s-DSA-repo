@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
