@@ -24,6 +24,7 @@
 | [0735-asteroid-collision](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2104-sum-of-subarray-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
@@ -256,4 +257,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0901-online-stock-span) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
