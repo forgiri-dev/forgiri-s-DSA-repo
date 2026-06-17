@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
@@ -130,6 +132,7 @@
 | [0020-valid-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0402-remove-k-digits) |
@@ -243,6 +246,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
@@ -264,5 +268,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
