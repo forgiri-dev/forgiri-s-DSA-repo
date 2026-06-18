@@ -25,6 +25,7 @@
 | [0735-asteroid-collision](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2104-sum-of-subarray-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/2104-sum-of-subarray-ranges) |
@@ -128,6 +129,7 @@
 | [0290-word-pattern](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
+| [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
 ## Design
 |  |
 | ------- |
@@ -273,4 +276,8 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
