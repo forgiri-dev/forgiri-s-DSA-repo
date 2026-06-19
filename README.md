@@ -87,6 +87,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -133,6 +134,7 @@
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Design
 |  |
 | ------- |
