@@ -83,6 +83,7 @@
 | [0205-isomorphic-strings](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0796-rotate-string) |
@@ -130,6 +131,7 @@
 | [0219-contains-duplicate-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
@@ -196,6 +198,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
