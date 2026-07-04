@@ -196,6 +196,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0148-sort-list) |
@@ -221,11 +223,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0148-sort-list) |
 ## Simulation
 |  |
