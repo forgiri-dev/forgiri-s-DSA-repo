@@ -23,6 +23,7 @@
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0875-koko-eating-bananas) |
@@ -141,6 +142,7 @@
 | [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
@@ -196,6 +199,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
@@ -204,6 +208,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -213,6 +218,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
