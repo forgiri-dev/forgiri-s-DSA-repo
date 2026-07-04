@@ -139,6 +139,7 @@
 | [0219-contains-duplicate-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0290-word-pattern) |
+| [0355-design-twitter](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
@@ -207,6 +208,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 ## Bucket Sort
@@ -230,6 +232,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +279,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
