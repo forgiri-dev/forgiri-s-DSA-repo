@@ -22,6 +22,7 @@
 | [0228-summary-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -141,6 +143,7 @@
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
@@ -182,6 +185,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +208,7 @@
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
