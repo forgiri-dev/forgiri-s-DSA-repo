@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
@@ -139,6 +140,7 @@
 | [0219-contains-duplicate-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
@@ -201,6 +203,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
@@ -211,6 +214,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
@@ -218,10 +222,12 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
@@ -243,6 +249,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -335,6 +342,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
