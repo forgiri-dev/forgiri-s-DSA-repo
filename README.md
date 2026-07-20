@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0084-largest-rectangle-in-histogram) |
