@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0219-contains-duplicate-ii) |
@@ -195,6 +196,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
