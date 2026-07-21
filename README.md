@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
@@ -114,6 +115,7 @@
 | [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
+| [0435-non-overlapping-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -199,6 +201,7 @@
 | ------- |
 | [0135-candy](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0678-valid-parenthesis-string) |
@@ -221,6 +224,7 @@
 | [0295-find-median-from-data-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
