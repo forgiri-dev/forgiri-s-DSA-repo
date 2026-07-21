@@ -170,6 +170,7 @@
 | [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0402-remove-k-digits) |
@@ -372,6 +373,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -382,10 +384,12 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
