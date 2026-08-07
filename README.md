@@ -40,6 +40,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -187,6 +188,7 @@
 | [0735-asteroid-collision](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/2104-sum-of-subarray-ranges) |
@@ -346,6 +348,7 @@
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Queue
 |  |
@@ -415,6 +418,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -425,6 +429,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -453,6 +458,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
