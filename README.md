@@ -46,6 +46,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@
 | [0875-koko-eating-bananas](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -385,6 +388,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -392,6 +396,7 @@
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -507,6 +512,7 @@
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -524,6 +530,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -537,4 +544,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
