@@ -127,6 +127,7 @@
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -537,6 +538,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
@@ -549,6 +551,7 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -558,5 +561,14 @@
 ## Shortest Path
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
