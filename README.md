@@ -174,6 +174,7 @@
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -514,6 +515,7 @@
 | [0733-flood-fill](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
@@ -534,6 +536,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -541,6 +544,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -552,6 +556,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
