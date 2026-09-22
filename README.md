@@ -33,6 +33,7 @@
 | [0503-next-greater-element-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
@@ -109,6 +110,7 @@
 | [0402-remove-k-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -171,6 +173,7 @@
 | [0496-next-greater-element-i](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
@@ -251,6 +254,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
@@ -386,6 +390,7 @@
 | [0547-number-of-provinces](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -512,6 +517,7 @@
 | [0547-number-of-provinces](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -535,6 +541,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1319-number-of-operations-to-make-network-connected) |
