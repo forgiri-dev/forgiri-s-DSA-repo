@@ -21,6 +21,7 @@
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0219-contains-duplicate-ii) |
@@ -71,6 +72,7 @@
 | [0168-excel-sheet-column-title](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0292-nim-game) |
@@ -319,6 +321,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0258-add-digits) |
 ## Brainteaser
 |  |
@@ -589,4 +592,20 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
