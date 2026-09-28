@@ -80,6 +80,7 @@
 | [0292-nim-game](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0326-power-of-three) |
 | [1248-count-number-of-nice-subarrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -159,6 +160,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0260-single-number-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
