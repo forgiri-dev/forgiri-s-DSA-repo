@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0084-largest-rectangle-in-histogram) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
@@ -417,6 +419,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0733-flood-fill) |
