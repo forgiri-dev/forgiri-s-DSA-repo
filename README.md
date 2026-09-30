@@ -20,6 +20,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0137-single-number-ii) |
@@ -132,6 +133,7 @@
 | [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
