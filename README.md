@@ -47,6 +47,7 @@
 | [0875-koko-eating-bananas](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -139,6 +140,7 @@
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
@@ -425,6 +427,7 @@
 | [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
