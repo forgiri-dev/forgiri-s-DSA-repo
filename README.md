@@ -31,6 +31,7 @@
 | [0228-summary-ranges](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0260-single-number-iii) |
+| [0322-coin-change](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0416-partition-equal-subset-sum) |
@@ -137,6 +138,7 @@
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
@@ -410,6 +412,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -632,9 +635,14 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
