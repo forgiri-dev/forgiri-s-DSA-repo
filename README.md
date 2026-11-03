@@ -112,6 +112,7 @@
 | [0058-length-of-last-word](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0168-excel-sheet-column-title) |
@@ -141,6 +142,7 @@
 | [0042-trapping-rain-water](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/forgiri-dev/forgiri-s-DSA-repo/tree/master/0120-triangle) |
